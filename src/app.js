@@ -6,4 +6,8 @@ app.get('/welcome', (req, res) => {
   res.send('Welcome to the Jungle!');
 });
 
+app.get('/goodbye', (req, res) => {
+  res.send("Goodbye, see you then!");
+});
+
 module.exports = app;  // export the app
