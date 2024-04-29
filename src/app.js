@@ -24,6 +24,10 @@ app.get('/goodbye', (req, res) => {
   res.send("Goodbye, see you then!");
 });
 
+app.get('/aurevoir', (req, res) => {
+  res.send("Au revoir, see you then!");
+});
+
 app.get('/response', (req, res) => {
     res.send(
         {
