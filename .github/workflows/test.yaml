@@ -1,18 +1,23 @@
+# Triggers the workflow whenever a pull request is created or updated on the main branch.
 on:
   pull_request:
     branches:
     - main
-
+# GitHUb Action jobs definition
 jobs:
   test:
     name: Run Tests
+# Indicates the type of the runner that the job will run on.
     runs-on: ubuntu-latest
     steps:
+# This step checks-out your repository under $GITHUB_WORKSPACE, so your job can access it.
     - uses: actions/checkout@v4
+# Sets up a node.js environment for use in actions with the specified node version and cache preference.
     - name: Use Node.js
       uses: actions/setup-node@v4
       with:
         node-version: 18.x
+    # Caches dependencies and build results for quicker builds.
         cache: 'npm'
     - run: npm ci
     - run: npm run build --if-present
