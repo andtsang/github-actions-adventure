@@ -28,6 +28,11 @@ app.get('/aurevoir', (req, res) => {
   res.send("Au revoir, see you then!");
 });
 
+app.get('/adios', (req, res) => {
+  res.send("Adios, see you then!");
+});
+
+
 app.get('/response', (req, res) => {
     res.send(
         {
