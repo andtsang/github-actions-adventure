@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/andtsang/github-actions-adventure/compare/v1.1.0...v1.2.0) (2024-04-29)
+
+
+### Features
+
+* update app.js ([#22](https://github.com/andtsang/github-actions-adventure/issues/22)) ([9eb0e24](https://github.com/andtsang/github-actions-adventure/commit/9eb0e24fc9e021ac2f0e0f502dd1cc89410814e0))
+
 ## [1.1.0](https://github.com/andtsang/github-actions-adventure/compare/v1.0.0...v1.1.0) (2024-04-29)
 
 
