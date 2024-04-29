@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/andtsang/github-actions-adventure/compare/v1.0.0...v1.1.0) (2024-04-29)
+
+
+### Features
+
+* add au-revoir ([#17](https://github.com/andtsang/github-actions-adventure/issues/17)) ([d91d8bc](https://github.com/andtsang/github-actions-adventure/commit/d91d8bcc3bb5e7c4385694cfc2dae8a5e0845e9c))
+
 ## 1.0.0 (2024-04-26)
 
 
