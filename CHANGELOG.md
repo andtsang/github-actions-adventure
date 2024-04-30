@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/andtsang/github-actions-adventure/compare/v1.3.1...v1.4.0) (2024-04-30)
+
+
+### Features
+
+* adding german greeting ([#36](https://github.com/andtsang/github-actions-adventure/issues/36)) ([7dc2320](https://github.com/andtsang/github-actions-adventure/commit/7dc23204491a1dbf9cf008d31e3065e8d7d65eb4))
+
 ## [1.3.1](https://github.com/andtsang/github-actions-adventure/compare/v1.3.0...v1.3.1) (2024-04-30)
 
 
