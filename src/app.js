@@ -32,7 +32,7 @@ app.get('/adios', (req, res) => {
   res.send("Adios, see you then!");
 });
 
-app.get('/tschüss', (req, res) => {
+app.get('/tschuess', (req, res) => {
   res.send("Tschüss, see you then!");
 });
 
