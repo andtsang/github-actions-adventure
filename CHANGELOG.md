@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/andtsang/github-actions-adventure/compare/v1.2.0...v1.3.0) (2024-04-30)
+
+
+### Features
+
+* add german goodbye endpoint ([#25](https://github.com/andtsang/github-actions-adventure/issues/25)) ([5ace4cf](https://github.com/andtsang/github-actions-adventure/commit/5ace4cf04204809f0099a32dd2af41948d5d5433))
+
+
+### Bug Fixes
+
+* use ü umlaut ([#29](https://github.com/andtsang/github-actions-adventure/issues/29)) ([4c68485](https://github.com/andtsang/github-actions-adventure/commit/4c684857463a7b15c67cbc796225f40e6b5e52f4))
+
 ## [1.2.0](https://github.com/andtsang/github-actions-adventure/compare/v1.1.0...v1.2.0) (2024-04-29)
 
 
