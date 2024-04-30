@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/andtsang/github-actions-adventure/compare/v1.3.0...v1.3.1) (2024-04-30)
+
+
+### Bug Fixes
+
+* remove umlaut ([#31](https://github.com/andtsang/github-actions-adventure/issues/31)) ([899f9c1](https://github.com/andtsang/github-actions-adventure/commit/899f9c149c5948760b80a17a47c1cceeaffdbcb9))
+
 ## [1.3.0](https://github.com/andtsang/github-actions-adventure/compare/v1.2.0...v1.3.0) (2024-04-30)
 
 
