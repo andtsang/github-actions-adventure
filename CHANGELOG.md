@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/andtsang/github-actions-adventure/compare/v1.4.0...v1.5.0) (2024-04-30)
+
+
+### Features
+
+* add spanish greeting ([#39](https://github.com/andtsang/github-actions-adventure/issues/39)) ([cf71ea3](https://github.com/andtsang/github-actions-adventure/commit/cf71ea32cba04111ae5e676876e1418fe1e4c6ba))
+
 ## [1.4.0](https://github.com/andtsang/github-actions-adventure/compare/v1.3.1...v1.4.0) (2024-04-30)
 
 
