@@ -22,6 +22,10 @@ app.get('/hola', (req, res) => {
   res.send('Hola to the Jungle!');
 });
 
+app.get('/bonjour', (req, res) => {
+  res.send('Bonjour to the Jungle!');
+});
+
 app.post('/save', (req, res) => {
   // To do: Save some data, for instance to database
   console.log(req.body);
