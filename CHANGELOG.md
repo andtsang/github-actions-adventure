@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/andtsang/github-actions-adventure/compare/v1.5.0...v1.6.0) (2024-05-01)
+
+
+### Features
+
+* adding french greeting ([#44](https://github.com/andtsang/github-actions-adventure/issues/44)) ([0380a51](https://github.com/andtsang/github-actions-adventure/commit/0380a51146cec1deb0530be1a94785cce75e08bb))
+
 ## [1.5.0](https://github.com/andtsang/github-actions-adventure/compare/v1.4.0...v1.5.0) (2024-04-30)
 
 
